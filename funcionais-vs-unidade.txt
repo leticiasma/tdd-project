@@ -1,0 +1,5 @@
+Duas diferenças entre testes funcionais e testes de unidade são:
+-Teste de unidade pequenas partes individual do código (ex.: um método em uma classe), enquanto testes funcionais testas uma parte da
+funcionalidade de um sistema (ex.: mais métodos testados).
+-Testes de unidade, por serem mais específicos e individuais, são mais rápidos do que os testes funcionais, sendo mais frequentemente
+executados.
